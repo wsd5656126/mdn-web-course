@@ -1,0 +1,8 @@
+/* Create your test CSS here */
+
+p {
+  color: red;
+  background: #2a2a2a;
+  /*solid:固体*/
+  border: 10px solid orange;
+}

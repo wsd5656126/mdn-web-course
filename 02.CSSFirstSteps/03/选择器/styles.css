@@ -1,0 +1,31 @@
+h1 {
+  color: red;
+}
+
+a:link {
+  color: white;
+}
+
+.manythings {
+  color: blue;
+}
+
+#onething {
+  color: green;
+}
+
+* {
+  background: #c8c8c8;
+}
+
+.box p {
+  color: orange;
+}
+
+.box p:first-child{
+  color: green;
+}
+
+h1, h2, .intro {
+  border: 1px solid orange;
+}
